@@ -3,7 +3,8 @@
 a restaurant findder
 <p align="center" dir="auto">
   <a href="http://developer.android.com/index.html" rel="nofollow"><img alt="Platform" src="https://camo.githubusercontent.com/84a92396cb56b1a9f83bd0ac930311007f59ebd0d3c366d1fbff4004dfd40dae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6174666f726d2d416e64726f69642d677265656e2e737667" data-canonical-src="https://img.shields.io/badge/platform-Android-green.svg" style="max-width: 100%;"></a>
-  <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><img src="https://camo.githubusercontent.com/faf49ffe81698bb34b60a52865d5e6fba5f02ac9b97fdd86eb4f1a0f4269e893/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6261646765732f736869656c6473" data-canonical-src="https://img.shields.io/github/contributors/badges/shields" style="max-width: 100%;"></a>
+  <a href="https://flutter.dev/"><img alt="flutter" src="https://img.shields.io/badge/Flutter-%203.2.3%20-blue" style="max-width: 100%;"></a>
+
 </p>
 <img width="2516" alt="thumbnail" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/30366d57-8880-405e-a3b8-3dfd63a7282e">
 
