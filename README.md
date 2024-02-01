@@ -9,7 +9,7 @@ a restaurant findder
 
 
 ## Loading Screen
-![Screenshot_1706766977](https://github.com/BEM28/Dahar_Submission/assets/65394086/7534fc15-0dd8-4878-89c7-fe05a3370827)
+<img width="393" alt="image" src=![Screenshot_1706766977](https://github.com/BEM28/Dahar_Submission/assets/65394086/7534fc15-0dd8-4878-89c7-fe05a3370827)>
 
 ## Home
 ![Screenshot_17![Screenshot_1706766982](https://github.com/BEM28/Dahar_Submission/assets/65394086/c0abdad5-8093-4462-a9a0-06191ab0e384)
