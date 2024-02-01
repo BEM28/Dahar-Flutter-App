@@ -8,17 +8,17 @@ a restaurant findder
 <img width="2516" alt="thumbnail" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/30366d57-8880-405e-a3b8-3dfd63a7282e">
 
 
-## Loading Screen
-<img width="393" alt="image" src=![Screenshot_1706766977](https://github.com/BEM28/Dahar_Submission/assets/65394086/7534fc15-0dd8-4878-89c7-fe05a3370827)>
+## Spalsh Screen
+<img width="390" alt="splash" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/02f2ec2d-3864-430f-ae22-a9e4c6bf62a2">
 
 ## Home
-![Screenshot_17![Screenshot_1706766982](https://github.com/BEM28/Dahar_Submission/assets/65394086/c0abdad5-8093-4462-a9a0-06191ab0e384)
+<img width="390" alt="home" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/ed7dd4c9-b911-49f0-93ba-c8fc646c0ec1">
 
 ## Favorite
-![Screenshot_1706766995](https://github.com/BEM28/Dahar_Submission/assets/65394086/035366b7-b274-4503-87a8-1264aff82ef4)
+<img width="390" alt="favorite" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/9caa7054-ecd6-4d99-9b47-646b9f7e13e1">
 
 ## Setting Notification
-![Screenshot_1706767001](https://github.com/BEM28/Dahar_Submission/assets/65394086/c45ff7b4-da3e-4401-aaf7-346e59b5cb09)
+<img width="390" alt="setting" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/ce89eabd-e7a5-49a9-8f54-a4a43ded1ff4">
 
 ## Search
-![Screenshot_1706768477](https://github.com/BEM28/Dahar_Submission/assets/65394086/fc1a09b2-186e-4da3-8da8-db9eb9f68230)
+<img width="390" alt="search" src="https://github.com/BEM28/Dahar_Submission/assets/65394086/45fff484-b4e0-411d-99aa-a8d26c40b06e">
